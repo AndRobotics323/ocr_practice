@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/addinedu/ocr_practice/build",
+  "command": "/usr/bin/g++  -I/usr/include/leptonica -isystem /home/addinedu/.local/include/opencv4 -g -o CMakeFiles/ocr_image.dir/image.cpp.o -c /home/addinedu/ocr_practice/image.cpp",
+  "file": "/home/addinedu/ocr_practice/image.cpp",
+  "output": "CMakeFiles/ocr_image.dir/image.cpp.o"
+},
+{
+  "directory": "/home/addinedu/ocr_practice/build",
+  "command": "/usr/bin/g++  -I/usr/include/leptonica -isystem /home/addinedu/.local/include/opencv4 -g -o CMakeFiles/ocr_video.dir/video.cpp.o -c /home/addinedu/ocr_practice/video.cpp",
+  "file": "/home/addinedu/ocr_practice/video.cpp",
+  "output": "CMakeFiles/ocr_video.dir/video.cpp.o"
+}
+]

@@ -1,0 +1,4 @@
+/home/addinedu/ocr_practice/build/CMakeFiles/ocr_image.dir
+/home/addinedu/ocr_practice/build/CMakeFiles/ocr_video.dir
+/home/addinedu/ocr_practice/build/CMakeFiles/edit_cache.dir
+/home/addinedu/ocr_practice/build/CMakeFiles/rebuild_cache.dir
